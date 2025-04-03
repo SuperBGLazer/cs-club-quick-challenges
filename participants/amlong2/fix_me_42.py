@@ -1,2 +1,2 @@
 def count_vowels(s):
-    return len(filter(s, lambda x: x in "aeiou"))
+    return len(list(filter(lambda x: x in "aeiou", s)))
