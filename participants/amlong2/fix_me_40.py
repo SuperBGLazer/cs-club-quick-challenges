@@ -1,2 +1,2 @@
 def reverse_string(s):
-    return s
+    return str(reversed(s))

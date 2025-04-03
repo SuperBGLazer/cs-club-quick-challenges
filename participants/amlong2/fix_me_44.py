@@ -1,2 +1,2 @@
 def remove_duplicates(lst):
-    return lst
+    return list(set(lst))
