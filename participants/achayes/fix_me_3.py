@@ -1,2 +1,4 @@
-def multiply(a, b):
-    return a + b
+def multiply(a,b):
+    a = 5
+    b = 10
+    print(a * b)
