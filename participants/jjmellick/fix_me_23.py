@@ -1,2 +1,2 @@
 def is_negative(a):
-    return a > 0
+    return a < 0
