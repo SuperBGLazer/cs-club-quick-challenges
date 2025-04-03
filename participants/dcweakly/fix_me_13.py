@@ -1,2 +1,2 @@
 def absolute(a):
-    return -a
+    return abs(a)
