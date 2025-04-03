@@ -1,2 +1,2 @@
 def negate(a):
-    return a
+    return -a
